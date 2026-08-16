@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Roxane",
   "author": "Sebastien",
-  "website": "",
+  "website": "https://github.com/Seb89320/ha-wakewords",
   "model": "roxane.tflite",
   "trained_languages": [
     "fr"
